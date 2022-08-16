@@ -1,6 +1,6 @@
 {
-  "name": "@hiennc/cache",
-  "version": "1.0.1",
+  "name": "@hiennc24/cache",
+  "version": "1.0.2",
   "description": "Redis cache",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -22,9 +22,9 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hiennchat/cache.git"
+    "url": "git+https://github.com/hiennc24/cache.git"
   },
-  "homepage": "https://github.com/hiennchat/cache#readme",
+  "homepage": "https://github.com/hiennc24/cache#readme",
   "devDependencies": {
     "@types/chai": "^4.2.18",
     "@types/mocha": "^8.2.2",

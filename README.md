@@ -1,5 +1,5 @@
 ## CACHING WITH REDIS
 
 ### INSTALL
-npm install @hiennc/cache
+npm install @hiennc24/cache
 
